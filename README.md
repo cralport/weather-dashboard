@@ -4,4 +4,6 @@ This is a Weather Dashboard that allows the user to type in any city and get the
 
 ![weather-dashboard](https://user-images.githubusercontent.com/77599683/111112925-9893b300-8526-11eb-9f08-eefe397616fc.png)
 
-Deployed url: 
+Deployed url: https://cralport.github.io/weather-dashboard/
+
+Github Pages: https://github.com/cralport/weather-dashboard
